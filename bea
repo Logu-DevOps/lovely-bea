@@ -1,4 +1,4 @@
 FROM python:latest
-
+echo "my events"
 WRKDIR /app
 
